@@ -1,0 +1,11 @@
+C:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.deps.json
+C:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.json
+C:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.dev.json
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.dll
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.pdb
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csprojAssemblyReference.cache
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csproj.CoreCompileInputs.cache
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfoInputs.cache
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfo.cs
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.dll
+c:\Users\GBroberg\Desktop\Test Apps\HeadFirstDesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.pdb
